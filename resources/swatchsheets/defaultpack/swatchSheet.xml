@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<swatchsheet src="defaultpack.jpg" setname="defaultpack" width="3" height="1" cellLength="50">
+    <row rowIndex="0">
+        <swatch uid="metalBlue" swatchUnder="false" solid="false" colIndex="0"></swatch>
+        <swatch uid="metalGreen" swatchUnder="false" solid="false" colIndex="1"></swatch>
+        <swatch uid="metalRed" swatchUnder="false" solid="false" colIndex="2"></swatch>
+    </row>
+
+</swatchsheet>
